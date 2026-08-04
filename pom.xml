@@ -16,7 +16,6 @@
 
 	<modules>
 		<module>template-placeholder</module>
-		<module>template-placeholder-demo</module>
 	</modules>
 
 	<properties>
