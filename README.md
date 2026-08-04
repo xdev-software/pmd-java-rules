@@ -1,8 +1,9 @@
 [![Latest version](https://img.shields.io/maven-central/v/software.xdev.pmd/rules?logo=apache%20maven)](https://mvnrepository.com/artifact/software.xdev.pmd/rules)
 [![Build](https://img.shields.io/github/actions/workflow/status/xdev-software/pmd-java-rules/check-build.yml?branch=develop)](https://github.com/xdev-software/pmd-java-rules/actions/workflows/check-build.yml?query=branch%3Adevelop)
 
-# pmd-java-rules
+# Custom PMD Java Rules
 
+Advanced PMD rules that are not included out of the box - written in Java when XPath is not enough.
 
 ## Installation
 [Installation guide for the latest release](https://github.com/xdev-software/pmd-java-rules/releases/latest#Installation)
