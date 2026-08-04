@@ -5,6 +5,8 @@
 
 Advanced PMD rules that are not included out of the box - written in Java when XPath is not enough.
 
+[Reference `ruleset.xml`](./reference-ruleset.xml)
+
 ## Installation
 [Installation guide for the latest release](https://github.com/xdev-software/pmd-java-rules/releases/latest#Installation)
 
