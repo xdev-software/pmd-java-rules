@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<licensePluginReport goal="FORMAT" timestamp="1785825067200">
+    <module artifactId="rules" groupId="software.xdev.pmd" version="1.0.0"/>
+    <files>
+        <file path="src/main/java/software/xdev/pmd/rule/AvoidVarForShortTypeRule.java" result="NOOP"/>
+        <file path="src/main/java/software/xdev/pmd/rule/prettyprint/PrettyPrintVisitor.java" result="NOOP"/>
+        <file path="src/main/java/software/xdev/pmd/rule/prettyprint/TypePrettyPrint.java" result="NOOP"/>
+        <file path="src/main/java/software/xdev/pmd/rule/prettyprint/TypePrettyPrinter.java" result="NOOP"/>
+    </files>
+</licensePluginReport>
