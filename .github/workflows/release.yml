@@ -5,7 +5,7 @@ on:
     branches: [ master ]
 
 env:
-  PRIMARY_MAVEN_MODULE: ${{ github.event.repository.name }}
+  PRIMARY_MAVEN_MODULE: rules
 
 permissions:
   contents: write
