@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  PRIMARY_MAVEN_MODULE: ${{ github.event.repository.name }}
+  PRIMARY_MAVEN_MODULE: rules
 
 jobs:
   publish-maven:
